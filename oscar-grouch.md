@@ -3,3 +3,4 @@
 * Fav Food: COOKIES
 * Hobby: Annoying People
 * Fav Color: Red, no Blue!
+* Occupation: Being grouchy
